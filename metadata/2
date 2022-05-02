@@ -1,39 +1,39 @@
 {
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Light Purple"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Light Chocolate"
-        },
-        {
-            "trait_type": "Body Gear",
-            "value": "Leather Jacket"
-        },
-        {
-            "trait_type": "Mane",
-            "value": "Light Brown"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Rose"
-        },
-        {
-            "trait_type": "Ear",
-            "value": "Hoops"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Gold Intrigue"
-        },
-        {
-            "trait_type": "Head Gear",
-            "value": "Opera"
-        }
-    ],
-    "name": "Cheeky Cougar #2",
-    "image": "ipfs://QmX5rF55nRfzs8nEXA7wC2eREieHq5Xynh6kghyR6NfTau/2.png",
-    "external_url": "https://www.cheekycougarclub.com/"
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Chocolate"
+    },
+    {
+      "trait_type": "Body Gear",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Mane",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Hoops"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold Intrigue"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Opera"
+    }
+  ],
+  "name": "Cheeky Cougar #2",
+  "image": "https://metadata-server-wood.herokuapp.com/api/images/2",
+  "external_url": "https://www.cheekycougarclub.com/"
 }

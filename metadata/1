@@ -1,11 +1,11 @@
 {
-    "attributes": [
-        {
-            "trait_type": "Name",
-            "value": "Legendary Cleopatra"
-        }
-    ],
-    "name": "Cheeky Cougar #1",
-    "image": "ipfs://QmX5rF55nRfzs8nEXA7wC2eREieHq5Xynh6kghyR6NfTau/1.png",
-    "external_url": "https://www.cheekycougarclub.com/"
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Legendary Cleopatra"
+    }
+  ],
+  "name": "Cheeky Cougar #1",
+  "image": "https://metadata-server-wood.herokuapp.com/api/images/1",
+  "external_url": "https://www.cheekycougarclub.com/"
 }
