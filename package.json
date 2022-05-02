@@ -19,6 +19,7 @@
     "web3": "^1.7.3"
   },
   "devDependencies": {
+    "heroku": "^7.60.2",
     "nodemon": "^2.0.16",
     "prettier": "^2.4.1"
   }
