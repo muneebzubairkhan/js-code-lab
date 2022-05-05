@@ -18,7 +18,8 @@ if (removeDuplicates) {
 }
 
 
-console.log(JSON.stringify(addresses, null, 4));
+console.log(JSON.stringify(addresses, null, 4).replaceAll("\n", "").replaceAll("   ", ""));
+// console.log(JSON.stringify(addresses, null, 4));
 // output
 // fs.writeFile(
 //   'ethAddressesOut.txt',
